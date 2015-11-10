@@ -6,6 +6,18 @@ docker run -it --rm -v $PWD:/src -p 9003:3000 --name react-tutorial bradleybossa
 
 This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
 
+## React Links
+* [Introducing React Naive](https://www.youtube.com/watch?v=KVZ-P-ZI6W4&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&index=1)
+* [Introduction to React Javascript Library](http://developer.telerik.com/featured/introduction-to-the-react-javascript-framework/)
+* [React Style Guide](https://github.com/Khan/style-guides/blob/master/style/react.md)
+* [Egghead.io React Fundamentals](https://egghead.io/lessons/react-hello-world-first-component)
+* [Facebook React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+
+## Flux Links
+
+[Flux](https://facebook.github.io/flux/docs/overview.html#content)
+
+
 ## To use
 
 There are several simple server implementations included. They all serve static files from `public/` and handle requests to `/api/comments` to fetch or add data. Start a server with one of the following:
